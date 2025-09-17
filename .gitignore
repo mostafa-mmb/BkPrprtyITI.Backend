@@ -1,0 +1,16 @@
+# Ignore Visual Studio settings
+.vs/
+*.user
+*.suo
+*.vscode/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore Angular node_modules
+BkPrprtyITI.Frontend/node_modules/
+BkPrprtyITI.Frontend/dist/
+
+# Logs
+*.log
